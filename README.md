@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Xavier Lian from Ngee Ann Polytechnic<br><br>- 📚 I'm currently pursuing a diploma in Inforrmation Technology with a specialisation in enterprise computing.<br>- ⚡ In my free time I play video games and workout</p>
+<p align="left">I'm Xavier Lian from Ngee Ann Polytechnic<br><br>- 📚 I'm currently pursuing a diploma in Information Technology with a specialisation in Enterprise Computing.<br>- ⚡ In my free time I play video games and workout</p>
 
 ###
 
@@ -50,6 +50,14 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xavierlian&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xavierlian&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierlian&layout=compact&theme=radical" alt="Top Languages" />
+</div>
